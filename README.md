@@ -72,7 +72,7 @@ Screenshots of the application are available in the `Project_Screenshots` folder
 ## Future Improvements
 - Improve model performance.
 - Explore additional Machine Learning algorithms.
-- Deploy the application using AWS.
+
 
 ## Author
 **Seniha S.**
